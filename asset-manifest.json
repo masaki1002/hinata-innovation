@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.e437c7a1.css",
+    "main.css": "./static/css/main.d60211ec.css",
     "main.js": "./static/js/main.159141d8.js",
     "static/media/outside_02.jpg": "./static/media/outside_02.d71920a4940868808e28.jpg",
     "static/media/hinata_logo.jpg": "./static/media/hinata_logo.ffd03226c44eee1c3aee.jpg",
     "index.html": "./index.html",
-    "main.e437c7a1.css.map": "./static/css/main.e437c7a1.css.map",
+    "main.d60211ec.css.map": "./static/css/main.d60211ec.css.map",
     "main.159141d8.js.map": "./static/js/main.159141d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e437c7a1.css",
+    "static/css/main.d60211ec.css",
     "static/js/main.159141d8.js"
   ]
 }
