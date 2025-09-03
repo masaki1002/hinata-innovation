@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.204d7bab.css",
-    "main.js": "./static/js/main.d2e0ec3c.js",
+    "main.css": "./static/css/main.6d04fc9d.css",
+    "main.js": "./static/js/main.ef7c41e4.js",
     "static/media/junichi.JPG": "./static/media/junichi.c22c2046bbe5cca76ff3.JPG",
     "static/media/misuzu.JPG": "./static/media/misuzu.101ceb2782b25db2587f.JPG",
     "static/media/outside_02.jpg": "./static/media/outside_02.d71920a4940868808e28.jpg",
     "static/media/hinata_logo.jpg": "./static/media/hinata_logo.ffd03226c44eee1c3aee.jpg",
     "static/media/outside_02_mobile.jpg": "./static/media/outside_02_mobile.0685183354757adec3a6.jpg",
     "index.html": "./index.html",
-    "main.204d7bab.css.map": "./static/css/main.204d7bab.css.map",
-    "main.d2e0ec3c.js.map": "./static/js/main.d2e0ec3c.js.map"
+    "main.6d04fc9d.css.map": "./static/css/main.6d04fc9d.css.map",
+    "main.ef7c41e4.js.map": "./static/js/main.ef7c41e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.204d7bab.css",
-    "static/js/main.d2e0ec3c.js"
+    "static/css/main.6d04fc9d.css",
+    "static/js/main.ef7c41e4.js"
   ]
 }
