@@ -1,0 +1,46 @@
+/* For navigation links */
+.navbar-nav .nav-link {
+    font-family: "M PLUS 1p", sans-serif;
+    font-size: 1.2rem;
+    color: #000000;
+    padding: 1.3rem 1rem;
+    margin: 0;
+}
+
+/* For the nav background color */
+.navbar-nav .nav-link:hover {
+    background-color: #07edb3d9;
+}
+
+/* For the brand/logo */
+.navbar-brand {
+    font-family: 'M PLUS 2p', sans-serif !important;
+    font-size: 1.0rem;
+}
+
+.custom-navbar-bg {
+    background-color: #ffffffd3;
+    font-family: "M PLUS 1p", sans-serif;
+}
+
+.navbar_stylize {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    gap: 20px;
+}
+
+.navbar_stylize a {
+    text-decoration: none;
+    color: rgb(30, 30, 30);
+    transition: all 0.3s;
+}
+
+.navbar_stylize a:hover {
+    color: rgb(255, 255, 255);
+    background-color: #8e8e8e;
+}
+
+.my_button {
+    margin: 0px 0px;
+}

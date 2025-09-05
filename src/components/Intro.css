@@ -1,0 +1,13 @@
+.intro-subtitle {
+    font-size: 1.2rem;
+}
+
+
+
+@media (max-width: 768px) {
+.intro-subtitle {
+    font-size: 1.0rem;
+}
+
+ 
+}

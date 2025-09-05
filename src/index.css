@@ -1,13 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+
+body,h3,h4,h5,h6,p,ul,li,section,span {
+  font-family: "M PLUS 1p", sans-serif;
+  line-height: 150%;
+  letter-spacing: 1px;
+}
+
+
+h1,h2 {
+  font-family: "M PLUS 3p", sans-serif;
+  line-height: 150%;
+  letter-spacing: 1px;
+}
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  -moz-osx-font-smoothing: grayscale; */
+  overflow-x: hidden;
+} 
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

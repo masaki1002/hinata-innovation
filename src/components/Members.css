@@ -1,0 +1,26 @@
+.image-shadow {
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.member_name {
+    font-size: 1.2rem;
+
+}
+
+ .member_intro {
+    font-size: 0.9rem;
+}
+
+
+@media (max-width: 768px) {
+  .member_name {
+    line-height: 130%; 
+    font-size: 0.9rem;
+}
+
+  .member_intro {
+    line-height: 130%; 
+    font-size: 0.9rem;
+}
+}
+

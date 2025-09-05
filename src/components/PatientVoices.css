@@ -1,0 +1,19 @@
+.patientvoices-area {
+    font-size: 10rem;
+    background-color: rgb(40, 39, 41);
+    padding-bottom: 100rem;
+     
+}
+
+
+.card_size_small {
+    height: "20rem"
+}
+
+.card_size_medium  {
+    height: "25rem"
+}
+
+.card_size_large  {
+    height: "42rem"
+}

@@ -1,0 +1,18 @@
+.post-area {
+    font-size: 10rem;
+    background-color: rgb(73, 69, 214);
+    padding-bottom: 100rem;
+     
+}
+
+.past-posts {
+    font-size: 1.2rem;
+}
+
+
+@media (max-width: 768px) {
+  .past-posts {
+    font-size: 0.9rem;
+}
+ 
+}
