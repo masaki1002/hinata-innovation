@@ -39,7 +39,6 @@ const Post = () => {
 
           (現在は約650文字くらい。一般的に人が読んでくれるブログの長さは500〜2000文字くらいと言われている)
           </p>
-          <br></br><br></br>
            <Link to="/moreposts" class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-top  w3-hover-opacity-off past-posts">過去の便りを見る</Link>
         </div>
       

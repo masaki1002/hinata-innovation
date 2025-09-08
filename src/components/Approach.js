@@ -29,6 +29,8 @@ const Approach = () => {
   }
 
   const videoEl = useRef(null);
+  const videoEl_2 = useRef(null);
+  const videoEl_3 = useRef(null);
 
   const attemptPlay = () => {
     videoEl &&
@@ -38,8 +40,26 @@ const Approach = () => {
       });
   };
 
+    const attemptPlay2 = () => {
+    videoEl_2 &&
+      videoEl_2.current &&
+      videoEl_2.current.play().catch(error => {
+        console.error("Error attempting to play", error);
+      });
+  };
+
+    const attemptPlay3 = () => {
+    videoEl_3 &&
+      videoEl_3.current &&
+      videoEl_3.current.play().catch(error => {
+        console.error("Error attempting to play", error);
+      });
+  };
+
    useEffect(() => {
     attemptPlay();
+    attemptPlay2();
+    attemptPlay3();
   }, []);
 
 
@@ -104,7 +124,7 @@ const Approach = () => {
                     muted
                     controls
                     alt="All the devices"
-                    ref={videoEl}
+                    ref={videoEl_2}
                   />
                 </div>
               <div class="w3-col m4">
@@ -116,7 +136,7 @@ const Approach = () => {
                     muted
                     controls
                     alt="All the devices"
-                    ref={videoEl}
+                    ref={videoEl_3}
                   />
               </div>
                <div class="w3-col m4">
