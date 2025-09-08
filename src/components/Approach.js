@@ -1,6 +1,15 @@
-import React from 'react'
+import React,  { useEffect, useRef }  from 'react'
 import './Approach.css'
 import placeholder from "../images/placeholder-image.jpg"
+import shonandai_hinata_okyu_patient from "../images/shonandai_hinata_okyu_patient.jpeg"
+import shonandai_hinata_needle_patient from "../images/shonandai_hinata_needle_patient.jpeg"
+import shonandai_hinata_okyu_video from "../images/shonandai_hinata_okyu.mp4"
+import shonanda_hinata_senko_video from "../images/shonanda_hinata_senko.mov"
+import shonandai_hinata_needle_patient_movie from "../images/shonandai_hinata_needle_patient_movie.mov"
+
+
+
+
 
 const Approach = () => {
 
@@ -19,6 +28,20 @@ const Approach = () => {
     color: "teal"
   }
 
+  const videoEl = useRef(null);
+
+  const attemptPlay = () => {
+    videoEl &&
+      videoEl.current &&
+      videoEl.current.play().catch(error => {
+        console.error("Error attempting to play", error);
+      });
+  };
+
+   useEffect(() => {
+    attemptPlay();
+  }, []);
+
 
   return (
     <section id="approach">
@@ -31,19 +54,20 @@ const Approach = () => {
           <div class="w3-container w3-padding-64" style={hinata_characteristics} id="about">
           <div class="w3-row-padding w3-center">
             <div class="w3-third">
-              <i class="fa fa-check-square-o w3-margin-bottom w3-jumbo w3-center" style={icon_color}></i>
-              <p class="w3-large">安心を最優先</p>
-              <p>厳選された国産使い捨て針と<section id="break">抗菌タオルを100%使用</section></p>
-            </div>
-            <div class="w3-third">
               <i class="fa fa-check-square-o w3-margin-bottom w3-jumbo" style={icon_color}></i>
-              <p class="w3-large">即効性・無痛のAcuzone治療</p>
-              <p>予防医学の先進国アメリカで<section id="break">体系化され国内で希少性の高い技術</section></p>
-            </div>
-            <div class="w3-third">
-              <i class="fa fa-check-square-o w3-margin-bottom w3-jumbo" style={icon_color}></i>
-              <p class="w3-large">免疫力向上</p>
+              <p class="w3-large"><b>免疫力向上を最重視</b></p>
               <p>頭の反応点から全身を整えて<section id="break">疲労回復と身体をメンテナンス</section></p>
+              
+            </div>
+            <div class="w3-third">
+              <i class="fa fa-check-square-o w3-margin-bottom w3-jumbo" style={icon_color}></i>
+              <p class="w3-large"><b>即効性・無痛治療を導入</b></p>
+              <p>予防医学の先進国アメリカで<section id="break">体系化され国内で希少性の高い技術を導入</section></p>
+            </div>
+            <div class="w3-third">
+              <i class="fa fa-check-square-o w3-margin-bottom w3-jumbo w3-center" style={icon_color}></i>
+              <p class="w3-large"><b>安心/安全を大切に</b></p>
+              <p>厳選された国産使い捨て針と<section id="break">抗菌タオルを100%使用</section></p>
             </div>
           </div>
         </div>
@@ -58,10 +82,10 @@ const Approach = () => {
              <div class="w3-container">
               <div class="w3-row-padding">
                 <div class="w3-col m6">
-                  <img class="w3-image w3-round-large w3-grayscale-min " src={placeholder} alt="post_image"></img>
+                  <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hinata_okyu_patient} alt="post_image"></img>
                 </div>
               <div class="w3-col m6">
-                  <img class="w3-image w3-round-large" src={placeholder} alt="post_image"></img>
+                  <img class="w3-image w3-round-large w3-grayscale-min" src={shonandai_hinata_needle_patient} alt="post_image"></img>
               </div>
               </div>
             </div><br></br>
@@ -71,12 +95,43 @@ const Approach = () => {
             <br></br>
             <div class="w3-container">
               <div class="w3-row-padding">
-                <div class="w3-col m6">
-                  <img class="w3-image w3-round-large w3-grayscale-min " src={placeholder} alt="post_image"></img>
+                <div class="w3-col l4 m4 s12">
+                  <video
+                    src={shonanda_hinata_senko_video}
+                    style={{ maxWidth: "100%", width: "300px",  margin: "0 auto" }}
+                    playsInline
+                    loop
+                    muted
+                    controls
+                    alt="All the devices"
+                    ref={videoEl}
+                  />
                 </div>
-              <div class="w3-col m6">
-                  <img class="w3-image w3-round-large" src={placeholder} alt="post_image"></img>
+              <div class="w3-col m4">
+                   <video
+                    src={shonandai_hinata_okyu_video}
+                    style={{ maxWidth: "100%", width: "300px",  margin: "0 auto" }}
+                    playsInline
+                    loop
+                    muted
+                    controls
+                    alt="All the devices"
+                    ref={videoEl}
+                  />
               </div>
+               <div class="w3-col m4">
+                 <video
+                    src={shonandai_hinata_needle_patient_movie}
+                    style={{ maxWidth: "100%", width: "300px",  margin: "0 auto" }}
+                    playsInline
+                    loop
+                    muted
+                    controls
+                    alt="All the devices"
+                    ref={videoEl}
+                  />
+              </div>
+              
               </div>
             </div><br></br>
             鍼灸は、単に症状を取り除くだけではなく、心身のバランスを整え、疲れにくく回復しやすい身体づくりをサポートします。ご自身の身体を大切にするための“習慣”として、定期的なメンテナンスをぜひ取り入れてみてください。

@@ -3,13 +3,13 @@
   background-position: top center;
   background-size: cover; 
   background-repeat: no-repeat;
-  background-image: linear-gradient(to top, rgba(214, 209, 209, 0.141) 0%, rgba(206, 210, 209, 0.7) 100%),url("../images/outside_02.jpg");
+  background-image: linear-gradient(to top, rgba(214, 209, 209, 0.141) 0%, rgba(206, 210, 209, 0.7) 100%),url("../images/shonandai_hinata_outside.jpeg");
   padding-bottom: 100%;
 }
 
 .my_button {
   width: 60%; /* Full width on very small screens */
-  padding: 10px; /* Adjust padding for full width */
+  padding: 20px; /* Adjust padding for full width */
   font-size: 1.2rem;
   
 }
@@ -27,15 +27,6 @@
 }
 
 @media (max-width: 768px) {
-  .bgimg-1 {
-  /* background-attachment: fixed; */
-    background-position: top center;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-image: linear-gradient(to top, rgba(214, 209, 209, 0.141) 0%, rgba(206, 210, 209, 0.7) 100%),url("../images/outside_02_mobile.jpg");
-    padding-bottom: 200%;
- 
-}
 
 .top_title_font {
   font-size: 1.8rem;
@@ -48,7 +39,7 @@
 
 .my_button {
     width: 70%; /* Full width on very small screens */
-    padding: 10px; /* Adjust padding for full width */
+    padding: 14px; /* Adjust padding for full width */
     font-size: 0.9rem;
       
 }

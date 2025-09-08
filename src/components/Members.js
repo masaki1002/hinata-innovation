@@ -25,7 +25,7 @@ const Members = () => {
          <div class="w3-border-bottom w3-border-light-grey"></div>
          <div class="w3-row-padding" style={intro_paragraph}>
           <div class="w3-col l2 m12 s12">
-            <img class="w3-image w3-round-large" src={misuzu_image} alt="misuzu oeda"></img><br></br><br></br>
+            <img class="w3-image w3-round-large w3-grayscale-min" src={misuzu_image} alt="misuzu oeda"></img><br></br><br></br>
           </div>
           <div class="w3-col l10 m12 s12">
             <p class="member_name"><b>代表: 大江田美鈴</b><br></br>鍼師・灸師・あん摩マッサージ指圧師 <br></br>MLAJリンパドレナージセラピスト臨床心理士</p>
@@ -40,7 +40,7 @@ const Members = () => {
       <br></br><br></br>
         <div class="w3-row-padding">
           <div class="w3-col l2 m12 s12">
-            <img class="w3-image w3-round-large" src={junichi_image} alt="misuzu oeda"></img><br></br><br></br>
+            <img class="w3-image w3-round-large w3-grayscale-min" src={junichi_image} alt="junichi oeda"></img><br></br><br></br>
           </div>  
           <div class="w3-col l10 m12 s12">
             <p class="member_name"><b>院長:大江田淳一</b><br></br>鍼師・灸師・あん摩マッサージ指圧師 <br></br>MLAJリンパドレナージセラピスト臨床心理士</p>

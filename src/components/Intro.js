@@ -1,6 +1,19 @@
 import React from 'react'
 import './Intro.css'
 import placeholder from "../images/placeholder-image.jpg"
+import windowdecoration from "../images/shonandai_hinata_window_decoration.jpg"
+import laying from "../images/shonandai_hinata_interior_laying.jpg"
+import shonandai_hinata_waitingroom from "../images/shonandai_hinata_waitingroom.jpeg"
+import shonandai_hinata_counter from "../images/shonandai_hinata_counter.jpeg"
+import shonandai_hinata_okiyu from "../images/shonandai_hinata_okiyu.jpeg"
+import shonandai_hianta_bed from "../images/shonandai_hianta_bed.jpeg"
+
+
+
+
+
+
+
 
 const Intro = () => {
 
@@ -41,12 +54,25 @@ const Intro = () => {
   </div>
  <div class="w3-container">
       <div class="w3-row-padding">
-        <div class="w3-col m6">
-            <img class="w3-image w3-round-large w3-grayscale-min " src={placeholder} alt="post_image"></img>
+          <div class="row">
+    <div class="column">
+      <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hinata_waitingroom} alt="post_image"></img>
+      <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hianta_bed} alt="post_image"></img>
+      <img class="w3-image w3-round-large w3-grayscale-min " src={laying} alt="post_image"></img>
+    </div>
+     <div class="column">
+      <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hinata_counter} alt="post_image"></img>
+      <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hinata_okiyu} alt="post_image"></img>
+      <img class="w3-image w3-round-large w3-grayscale-min " src={windowdecoration} alt="post_image"></img>
+    </div>
+  </div>
+
+        {/* <div class="w3-col m6">
+            <img class="w3-image w3-round-large w3-grayscale-min " src={windowdecoration} alt="post_image"></img>
         </div>
         <div class="w3-col m6">
-            <img class="w3-image w3-round-large" src={placeholder} alt="post_image"></img>
-        </div>
+            <img class="w3-image w3-round-large w3-grayscale-min" src={laying} alt="post_image"></img>
+        </div> */}
         </div>
 </div>
 <br></br>
