@@ -27,6 +27,9 @@
 }
 
 @media (max-width: 768px) {
+.bgimg-1 {
+  margin-top: 85px;
+}
 
 .top_title_font {
   font-size: 1.8rem;

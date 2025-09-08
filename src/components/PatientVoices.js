@@ -31,7 +31,7 @@ const PatientVoices = () => {
         <div class="w3-full w3-container w3-padding-64" style={testimony_container} id="team"><br></br>
        <div class="w3-row-padding">
         <h2 class="w3-center"><b>当院患者さんの声</b></h2>
-        <p class="w3-center w3-large">当院の施術効果を体感された方々を一部ご紹介</p>
+        <p class="w3-center w3-large">治療効果を体感された方々を一部ご紹介</p>
         <div class="w3-border-bottom w3-border-light-grey"></div>
 
 
