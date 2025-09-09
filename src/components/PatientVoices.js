@@ -21,7 +21,7 @@ const PatientVoices = () => {
     }
 
     const card_size_large = {
-      height: "30rem"
+      height: "32rem"
     }
 
 

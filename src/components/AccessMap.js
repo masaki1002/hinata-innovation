@@ -10,11 +10,11 @@ import { faClock, faHouse, faTrain, faPhone, faCalendar } from '@fortawesome/fre
 const AccessMap = () => {
   
   const intro_container = {
-    padding: "32px 0px 12px 12px"
+    padding: "16px 0px 0px 0px"
   }
 
   const testimony_subcontainer = {
-      margin: "64px 0px 0px 0px"
+      margin: "20px 0px 0px 0px"
     }
 
   return (
