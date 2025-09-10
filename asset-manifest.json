@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.eea1253e.css",
-    "main.js": "./static/js/main.c1017975.js",
+    "main.css": "./static/css/main.5ebe19ab.css",
+    "main.js": "./static/js/main.bffea5f7.js",
     "static/media/shonandai_hinata_needle_patient_movie.mov": "./static/media/shonandai_hinata_needle_patient_movie.1f839cba1f67fc91ac94.mov",
     "static/media/shonanda_hinata_senko.mov": "./static/media/shonanda_hinata_senko.dcaf3c18ef648b7fdd02.mov",
     "static/media/shonandai_hinata_waitingroom.jpeg": "./static/media/shonandai_hinata_waitingroom.cd9b4ca6665c13e44fd7.jpeg",
@@ -19,11 +19,11 @@
     "static/media/hinata_logo.jpg": "./static/media/hinata_logo.ffd03226c44eee1c3aee.jpg",
     "static/media/shonandai_hinata_window_decoration.jpg": "./static/media/shonandai_hinata_window_decoration.225578386d7a0a573472.jpg",
     "index.html": "./index.html",
-    "main.eea1253e.css.map": "./static/css/main.eea1253e.css.map",
-    "main.c1017975.js.map": "./static/js/main.c1017975.js.map"
+    "main.5ebe19ab.css.map": "./static/css/main.5ebe19ab.css.map",
+    "main.bffea5f7.js.map": "./static/js/main.bffea5f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.eea1253e.css",
-    "static/js/main.c1017975.js"
+    "static/css/main.5ebe19ab.css",
+    "static/js/main.bffea5f7.js"
   ]
 }
