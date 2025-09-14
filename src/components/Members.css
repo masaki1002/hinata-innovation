@@ -15,12 +15,12 @@
 @media (max-width: 768px) {
   .member_name {
     line-height: 130%; 
-    font-size: 0.9rem;
+    font-size: 1.3rem;
 }
 
   .member_intro {
     line-height: 130%; 
-    font-size: 0.9rem;
+    font-size: 1.0rem;
 }
 }
 

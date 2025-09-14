@@ -177,7 +177,7 @@ const Menu = () => {
         <div class="w3-left-align">
         <ul>
             <li>初診料/再診料(前回の来院から半年以上経過)として、別途１，５００円(リンパ浮腫は別途２，５００円)を頂戴します</li>
-            <li>リンパ浮腫においては「弾性包帯施行料: １，５００円」と「弾性包帯購入費用: ４，４００円〜１６，５００円」が別途発生します</li>
+            <li>リンパ浮腫においては「弾性包帯施行料: １，５００円」と「弾性包帯購入費用: １３，０００円〜１９，０００円」が別途発生します</li>
             <li>花粉症治療の効果を出すためには、1クール(３回続けて)の来院をお薦めしております</li>
         </ul>
     
@@ -207,9 +207,10 @@ const Menu = () => {
                 <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">症状/効果</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
-                  <li>腰や手足の痛みが辛い</li>
-                  <li>花粉アレルギーのため外出するのが億劫になる</li>
-                  <li>(女性の方)病院で逆子と言われた。不安でなんとかしたい等</li>   
+                  <li>手足の痛みなど様々な症状・悩み</li>
+                  <li>メンタルの不調</li>
+                  <li>アレルギー症</li>
+                  <li>逆子・冷え</li>   
                 </ul>
               </li>
               <li class="w3-padding-32 w3-left-align">
@@ -242,14 +243,8 @@ const Menu = () => {
            <br></br>
             <ul class="w3-ul">
               <li>
-                腰や手足の痛みが辛い
+                血流改善による身体の調整
               </li>
-              <li>
-                花粉アレルギーのため外出するのが億劫になる
-              </li>
-              <li>
-                (女性の方)病院で逆子と言われた。不安でなんとかしたい等
-              </li>   
             </ul>
             </li>
             <li class="w3-padding-32 w3-left-align">
@@ -287,9 +282,8 @@ const Menu = () => {
                 <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">症状/効果</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
-                  <li>腰や手足の痛みが辛い</li>
-                  <li>花粉アレルギーのため外出するのが億劫になる</li>
-                  <li>(女性の方)病院で逆子と言われた。不安でなんとかしたい等</li>   
+                  <li>手術後・放射線治療後の上股や下股のむくみ
+                  </li>
                 </ul>
               </li>
               <li class="w3-padding-32 w3-left-align">
@@ -339,9 +333,8 @@ const Menu = () => {
                 <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">症状/効果</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
-                  <li>腰や手足の痛みが辛い</li>
-                  <li>花粉アレルギーのため外出するのが億劫になる</li>
-                  <li>(女性の方)病院で逆子と言われた。不安でなんとかしたい等</li>   
+                  <li>冷え</li>
+                  <li>肌のトラブル</li> 
                 </ul>
               </li>
               <li class="w3-padding-32 w3-left-align">
@@ -376,9 +369,9 @@ const Menu = () => {
                 <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">症状/効果</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
-                  <li>腰や手足の痛みが辛い</li>
-                  <li>花粉アレルギーのため外出するのが億劫になる</li>
-                  <li>(女性の方)病院で逆子と言われた。不安でなんとかしたい等</li>   
+                  <li>肌質改善</li>
+                  <li>むくみ解消</li>
+                  <li>リフトアップ</li>   
                 </ul>
               </li>
               <li class="w3-padding-32 w3-left-align">
@@ -413,9 +406,7 @@ const Menu = () => {
                 <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">症状/効果</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
-                  <li>腰や手足の痛みが辛い</li>
-                  <li>花粉アレルギーのため外出するのが億劫になる</li>
-                  <li>(女性の方)病院で逆子と言われた。不安でなんとかしたい等</li>   
+                  <li>こどもの様々な症状</li>
                 </ul>
               </li>
               <li class="w3-padding-32 w3-left-align">
