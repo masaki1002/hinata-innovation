@@ -4,11 +4,23 @@ import './Navigation.css'
 import { Link } from 'react-router-dom'
 import { Container, Navbar, Nav }  from 'react-bootstrap';
 import hinata_logo_image from "../images/hinata_logo.jpg"
-
+import { useTranslation } from 'react-i18next'; //追記
+import { useEffect, useState } from 'react';
 
 
 
 const Navigation = () => {
+
+  const [lang, setLang] = useState('ja');
+  const {t, i18n} = useTranslation(); //追記
+
+  useEffect (() => {
+    i18n.changeLanguage(lang);
+  }, [lang, i18n]);
+
+
+
+
   return (
 
     <div class="w3-top">
@@ -17,13 +29,16 @@ const Navigation = () => {
          <Navbar.Brand href="#">
           <img class="w3-image w3-round-large image-max-width"   style={{ maxWidth: "60%", width: "100px",  margin: "0 auto" }} src={hinata_logo_image} alt="Hinata logo"></img>
           {/* <b>ひなた治療院</b> */}
+           <button class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+            {lang=== 'en' ? ("日本語") : ("English")}
+          </button>
          </Navbar.Brand>
 
          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
          <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="justify-content-end navbar_stylize" style={{ width: "100%" }}>
           {/* <AnchorLink href="#top">トップ</AnchorLink> */}
-          <AnchorLink href="#post" class="w3-button w3-hover-opacity-off">季節の便り</AnchorLink>
+          <AnchorLink href="#post" class="w3-button w3-hover-opacity-off">{t('seasonalInfo')}</AnchorLink>
           <AnchorLink href="#intro" class="w3-button w3-hover-opacity-off">当院の紹介</AnchorLink>
           <AnchorLink href="#approach" class="w3-button w3-hover-opacity-off">施術アプローチ</AnchorLink>
           <AnchorLink href="#menu" class="w3-button w3-hover-opacity-off">治療メニュー</AnchorLink>
