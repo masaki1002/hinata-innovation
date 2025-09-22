@@ -1,5 +1,42 @@
 {
     "greeting": "hello",
     "question": "How are you?",
-    "seasonalInfo": "Seasonal Info"
+    "seasonalLetter": "Seasonal News",
+    "clinicIntro": "Clinic Intro",
+    "approach": "Our Approachs",
+    "menu": "Treatment Menus",
+    "voices": "Patient Voices",
+    "access": "Access",
+
+    "hinataClinic": "Hinata Clinic",
+    "hinataIntro": "Take a break from your daily routine and take time to rejuvenate your mind and body!",
+    "hinataIntro2": "A hidden acupuncture and massage salon in Shonandai",
+    "hinataIntroParagraph": "In your busy daily life, do you accumulate fatigue and stress without realizing it? Hinata Clinic, located near Shonandai Station, is a popular clinic for women that gently balances the mind and body with the power of acupuncture and massage. It can help with stiff shoulders, back pain, autonomic nervous system disorders, and changes in physical condition due to age -",
+    "hinataIntroParagraph2": "There are those minor ailments that don't warrant a trip to the hospital, but that keep bothering you. By carefully addressing 'these vague ailments', you can make a big difference in your daily life.",
+    "hinataIntroParagraph3": "「I am looking for a reliable acupuncture clinic in Fujisawa」",
+    "hinataIntroParagraph4": "「I want to get a relaxing massage in Shonandai」",
+    "hinataIntroParagraph5": "We continue to be chosen by such people, and patients of all ages visit our clinic. In a warm, 'hinata'-like space, we provide custom-made treatments tailored to each individual's concerns. While receiving treatment, you will also feel relaxed and soothed. We operate by appointment only, and our quiet, private space allows you to consult with peace of mind.",
+    "hinataIntroParagraph6": "This is a clinic that we would like to welcome anyone looking for high-quality acupuncture and massage in the Shonandai/Fujisawa area. ",
+
+    "seasonalLetterIntro": "Seasonal News 2025/9/##",
+    "seasonalLetterIntro2": "Renewal of Hinata Clinic's website",
+    "seasonalLetterParagraph": "We have recently renewed the Hinata Clinic website.",
+    "seasonalLetterParagraph2": "It has been 19 years since we opened in Shonandai, and our treatment methods have continued to improve significantly since we first opened.",
+    "seasonalLetterParagraph3": "Our goal remains the same: to alleviate and improve various painful symptoms. However, we have striven to improve our techniques every day, aiming to reduce the pain and stimulation of acupuncture and ease the burden on patients receiving treatment.",
+    "seasonalLetterParagraph4": "Specifically, we use two pillars: 'head acupuncture,' which primarily uses acupressure points and reaction points on the head, and 'fast-acting painless treatment,' which uses only 7 or fewer of the 26 acupressure points on the entire body.",
+    "seasonalLetterParagraph5": "Although each approach is different, we use gentle acupuncture treatment to maximize each person's immune system, not only curing physical ailments but also aiming to improve constitution, and we carefully treat a wide range of illnesses from acute to chronic.",
+    "seasonalLetterParagraph6": "The needles used in treatment are made in Japan, so you can be sure they are safe and reliable. They are as thin as a human hair, so you will hardly feel any pain when they are inserted.",
+    "seasonalLetterParagraph7": "There are pain points (pain-sensing cells) on the human skin. When these points are stimulated, some pain can be felt, but our patients generally say things like, 'I didn't even feel the needles, it was painless' (individual differences may apply), so you can receive treatment with peace of mind.",
+    "seasonalLetterParagraph8": "In addition, a trusting relationship between the patient and our therapist is also an important point in treatment. We believe that a trusting relationship can maximize the effectiveness of treatment.",
+    "seasonalLetterParagraph9": "Please feel free to contact us with any questions or concerns you may have!",
+    "seasonalLetterButton": "View past news",
+
+    "topTitle": "In Shonandai Fujisawa city,",
+    "topTitle2": "where one can casually stop by",
+    "topTitle3": "Supporting body maintenance through careful treatment",
+    "topButton": "Visit Hinata Clinic"
+
+
+
+
 }

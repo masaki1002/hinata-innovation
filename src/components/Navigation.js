@@ -1,10 +1,9 @@
-import React from 'react'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
-import './Navigation.css'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
+import './Navigation.css';
 import { Container, Navbar, Nav }  from 'react-bootstrap';
-import hinata_logo_image from "../images/hinata_logo.jpg"
-import { useTranslation } from 'react-i18next'; //追記
+import hinata_logo_image from "../images/hinata_logo.jpg";
+import { useTranslation } from 'react-i18next';
 import { useEffect, useState } from 'react';
 
 
@@ -12,7 +11,7 @@ import { useEffect, useState } from 'react';
 const Navigation = () => {
 
   const [lang, setLang] = useState('ja');
-  const {t, i18n} = useTranslation(); //追記
+  const {t, i18n} = useTranslation();
 
   useEffect (() => {
     i18n.changeLanguage(lang);
@@ -22,28 +21,27 @@ const Navigation = () => {
 
 
   return (
-
     <div class="w3-top">
       <Navbar className="w3-card custom-navbar-bg" expand="lg"sticky="top">
       <Container fluid style={{ minHeight: "3vh"}}>
          <Navbar.Brand href="#">
           <img class="w3-image w3-round-large image-max-width"   style={{ maxWidth: "60%", width: "100px",  margin: "0 auto" }} src={hinata_logo_image} alt="Hinata logo"></img>
           {/* <b>ひなた治療院</b> */}
-           <button class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+         </Navbar.Brand>
+          <button class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
             {lang=== 'en' ? ("日本語") : ("English")}
           </button>
-         </Navbar.Brand>
 
          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
          <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="justify-content-end navbar_stylize" style={{ width: "100%" }}>
           {/* <AnchorLink href="#top">トップ</AnchorLink> */}
-          <AnchorLink href="#post" class="w3-button w3-hover-opacity-off">{t('seasonalInfo')}</AnchorLink>
-          <AnchorLink href="#intro" class="w3-button w3-hover-opacity-off">当院の紹介</AnchorLink>
-          <AnchorLink href="#approach" class="w3-button w3-hover-opacity-off">施術アプローチ</AnchorLink>
-          <AnchorLink href="#menu" class="w3-button w3-hover-opacity-off">治療メニュー</AnchorLink>
-          <AnchorLink href="#patientvoices" class="w3-button w3-hover-opacity-off">患者さんの声</AnchorLink>
-          <AnchorLink href="#accessmap" class="w3-button w3-hover-opacity-off">アクセスマップ</AnchorLink>
+          <AnchorLink href="#post" class="w3-button w3-hover-opacity-off">{t('seasonalLetter')}</AnchorLink>
+          <AnchorLink href="#intro" class="w3-button w3-hover-opacity-off">{t('clinicIntro')}</AnchorLink>
+          <AnchorLink href="#approach" class="w3-button w3-hover-opacity-off">{t('approach')}</AnchorLink>
+          <AnchorLink href="#menu" class="w3-button w3-hover-opacity-off">{t('menu')}</AnchorLink>
+          <AnchorLink href="#patientvoices" class="w3-button w3-hover-opacity-off">{t('voices')}</AnchorLink>
+          <AnchorLink href="#accessmap" class="w3-button w3-hover-opacity-off">{t('access')}</AnchorLink>
           
 
            </Nav>

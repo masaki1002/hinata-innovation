@@ -7,11 +7,8 @@ import shonandai_hinata_waitingroom from "../images/shonandai_hinata_waitingroom
 import shonandai_hinata_counter from "../images/shonandai_hinata_counter.jpeg"
 import shonandai_hinata_okiyu from "../images/shonandai_hinata_okiyu.jpeg"
 import shonandai_hianta_bed from "../images/shonandai_hianta_bed.jpeg"
-
-
-
-
-
+import { useTranslation } from 'react-i18next';
+import { useEffect, useState } from 'react';
 
 
 
@@ -25,27 +22,28 @@ const Intro = () => {
     padding: "20px 0px 0px"
   }
 
-
+    const {t} = useTranslation();
+  
 
   return (
     <section id="intro">
          <div class="w3-full w3-container w3-padding-64"><br></br>
       <div class="w3-row-padding">
          <div class="w3-center" style={intro_container}>
-          <h2><b>ひなた治療院</b></h2>
+          <h2><b>{t('hinataClinic')}</b></h2>
           <div class="w3-border-bottom w3-border-light-grey"></div>
           <div class="w3-left-align" style={intro_paragraph}>
-          <h5 class="intro-subtitle">日常を少し離れて、心と身体を整える時間を!<br></br>湘南台の隠れ家 鍼灸マッサージサロン</h5><br></br>
+          <h5 class="intro-subtitle">{t('hinataIntro')}<br></br>{t('hinataIntro2')}</h5><br></br>
           <p class="w3-medium">
-          忙しい毎日、気づかないうちに疲れやストレスをためこんでいませんか？湘南台駅近くにある「ひなた治療院」は、鍼灸とマッサージの力で、心と身体のバランスをやさしく整える、女性にも人気の治療院です。
-          肩こりや腰痛、自律神経の乱れ、年齢による体調の変化——<br></br><br></br>
-          病院に行くほどではないけれど、ずっと気になっている小さな不調。そんな“なんとなくの不調”こそ、丁寧に向き合うことで、日常が大きく変わります。<br></br><br></br><br></br>
-          <i>「藤沢市で信頼できる鍼灸院を探している」</i><br></br>
-          <i>「湘南台でリラックスできるマッサージを受けたい」</i><br></br><br></br><br></br>
-          そんな方々に選ばれ続け、幅広い年代の患者さまにご来院いただいております。
-          「ひなた」のような温かな空間で、一人ひとりのお悩みに合わせたオーダーメイドの施術をご提供します。治療でありながら、リラックスや癒しも感じていただける時間になるはずです。
-          完全予約制・静かなプライベート空間で、安心してご相談いただけます。<br></br><br></br>
-          湘南台・藤沢エリアで、質の高い鍼灸マッサージをお探しの方に、ぜひお越しいただきたい治療院です。  
+          {t('hinataIntroParagraph')}
+         <br></br><br></br>
+          {t('hinataIntroParagraph2')}
+          <br></br><br></br><br></br>
+          <i>{t('hinataIntroParagraph3')}</i><br></br>
+          <i>{t('hinataIntroParagraph4')}</i><br></br><br></br><br></br>
+          {t('hinataIntroParagraph5')}
+          <br></br><br></br>
+          {t('hinataIntroParagraph6')} 
           </p>
 
           </div>
