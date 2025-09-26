@@ -77,20 +77,20 @@ const Intro = () => {
 
     <div class="w3-container w3-row w3-center w3-teal w3-padding-64">
       <div class="w3-quarter w3-padding-16">
-        <span class="w3-xxlarge">19年目</span>
-        <br></br>湘南台で開業
+        <span class="w3-xxlarge">{t('hinataRecord1')}</span>
+        <br></br>{t('hinataRecord2')}
       </div>
       <div class="w3-quarter w3-padding-16">
-        <span class="w3-xxlarge">30,000人+</span>
-        <br></br>のべ患者数
+        <span class="w3-xxlarge">{t('hinataRecord3')}</span>
+        <br></br>{t('hinataRecord4')}
      </div>
       <div class="w3-quarter w3-padding-16">
-        <span class="w3-xxlarge">95%+</span>
-        <br></br>治療満足度
+        <span class="w3-xxlarge">{t('hinataRecord5')}</span>
+        <br></br>{t('hinataRecord6')}
       </div>
     <div class="w3-quarter w3-padding-16">
-        <span class="w3-xxlarge">95%+</span>
-        <br></br>リピート率
+        <span class="w3-xxlarge">{t('hinataRecord7')}</span>
+        <br></br>{t('hinataRecord8')}
     </div>
   </div>
 

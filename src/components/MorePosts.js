@@ -3,8 +3,19 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Container, Navbar, Nav }  from 'react-bootstrap'
 import hinata_logo_image from "../images/hinata_logo.jpg"
 import { Link } from 'react-router-dom'
+import { useEffect, useState } from 'react';
+import { useTranslation } from 'react-i18next';
+
 
 const MorePosts = () => {
+
+  const [lang, setLang] = useState('ja');
+  const {t, i18n} = useTranslation();
+  
+  useEffect (() => {
+    i18n.changeLanguage(lang);
+  }, [lang, i18n]);
+  
   return (
     <section id="moreposts">
         <div class="w3-top">
@@ -14,12 +25,15 @@ const MorePosts = () => {
           <img class="w3-image w3-round-large image-max-width"   style={{ maxWidth: "60%", width: "100px",  margin: "0 auto" }} src={hinata_logo_image} alt="Hinata logo"></img>
           {/* <b>ひなた治療院</b> */}
          </Navbar.Brand>
+          <button class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+            {lang=== 'en' ? ("日本語") : ("English")}
+          </button>
 
          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
          <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="justify-content-end navbar_stylize" style={{ width: "100%" }}>
           {/* <AnchorLink href="#top">トップ</AnchorLink> */}
-            <Link to="/">トップに戻る</Link>
+            <Link to="/">{t('morePostsBackToTop')}</Link>
           
 
            </Nav>

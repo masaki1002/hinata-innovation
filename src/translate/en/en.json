@@ -8,6 +8,7 @@
     "voices": "Patient Voices",
     "access": "Access",
 
+
     "hinataClinic": "Hinata Clinic",
     "hinataIntro": "Take a break from your daily routine and take time to rejuvenate your mind and body!",
     "hinataIntro2": "A hidden acupuncture and massage salon in Shonandai",
@@ -17,6 +18,7 @@
     "hinataIntroParagraph4": "「I want to get a relaxing massage in Shonandai」",
     "hinataIntroParagraph5": "We continue to be chosen by such people, and patients of all ages visit our clinic. In a warm, 'hinata'-like space, we provide custom-made treatments tailored to each individual's concerns. While receiving treatment, you will also feel relaxed and soothed. We operate by appointment only, and our quiet, private space allows you to consult with peace of mind.",
     "hinataIntroParagraph6": "This is a clinic that we would like to welcome anyone looking for high-quality acupuncture and massage in the Shonandai/Fujisawa area. ",
+
 
     "seasonalLetterIntro": "Seasonal News 2025/9/##",
     "seasonalLetterIntro2": "Renewal of Hinata Clinic's website",
@@ -31,10 +33,186 @@
     "seasonalLetterParagraph9": "Please feel free to contact us with any questions or concerns you may have!",
     "seasonalLetterButton": "View past news",
 
+    "morePostsBackToTop": "Go to top",
+
     "topTitle": "In Shonandai Fujisawa city,",
-    "topTitle2": "where one can casually stop by",
+    "topTitle2": "where anyone can casually stop by",
     "topTitle3": "Supporting body maintenance through careful treatment",
-    "topButton": "Visit Hinata Clinic"
+    "topButton": "Visit Hinata Clinic",
+
+
+    "approachTitle": "Our Treatment Approaches",
+    "subTitle": "'From symptomatic treatment to fundamental treatment. Improving your constitution is more important than suppressing pain and discomfort with medicine.'",
+    "approach1Title": "Immune system improvement",
+    "approach1Paragraph1": "Adjusting your whole body from the reaction points in your head",
+    "approach1Paragraph2": "to recover from fatigue and maintain your body",
+    "approach2Title": "Fast-acting, painless treatment",
+    "approach2Paragraph1": "In the United States, a country advanced in preventive medicine",
+    "approach2Paragraph2": "Introducing systematized and rare technologies in Japan",
+    "approach3Title": "Value safety and security",
+    "approach3Paragraph1": "Carefully selected domestic disposable needles",
+    "approach3Paragraph2": "100% antibacterial towels used",
+    "approachExplanation1": "Our bodies gradually accumulate fatigue and distortion due to our daily lives, work, stress, aging, and other factors. Pain and discomfort are signs that this accumulation is reaching its limit. Acupuncture is a treatment that approaches the root of these disorders and draws out the body's innate natural healing powers. However, the body does not return to normal immediately with a single treatment; it is necessary to gradually restore balance.",
+    "approachExplanation2": "Therefore, by continuing to visit the hospital and monitoring changes in your physical condition, you can improve your condition at a comfortable pace, which will lead to improvement of symptoms and prevention of recurrence. Just like regular checkups for your car or teeth, our bodies also require maintenance. Rather than rushing to deal with problems after they occur, by taking care of your body on a daily basis, you can prevent major problems.",
+    "approachExplanation3": "Acupuncture and moxibustion not only relieves symptoms, but also helps to restore a balance between mind and body, helping to create a body that is less prone to fatigue and more resilient to recovery. We encourage you to incorporate regular maintenance into your daily routine as a way to look after your own body. We want to support our patients in facing their own bodies and living better lives. Let's work together to help you feel the changes in your body, effortlessly yet steadily.",
+
+
+    "hinataRecord1": "19th year",
+    "hinataRecord2": "Opened in Shonandai",
+    "hinataRecord3": "30,000人+",
+    "hinataRecord4": "Total number of patients",
+    "hinataRecord5": "95%+",
+    "hinataRecord6": "Treatment satisfaction",
+    "hinataRecord7": "95%+",
+    "hinataRecord8": "Repeat rate",
+
+
+    "memberTitle1": "Our Acupuncturists",
+    "memberTitle2": "Please feel free to contact us first.",
+    "member1Intro1": "Representative: Misuzu Oeda",
+    "member1Intro2": "Acupuncturist, moxibustion practitioner, massage therapist",
+    "member1Intro3": "MLAJ Lymphatic Drainage Therapist",
+    "member1Intro4": "Certified psychologist",
+    "member1Intro5": "After raising her children, she took the opportunity to attend a vocational school for acupuncture and moxibustion, obtaining national qualifications as an acupuncturist, moxibustion practitioner, and massage therapist. She then opened Hinata Clinic with her eldest son. Valuing a constant desire to learn, she also obtained a license as a certified psychologist in 2024. She mastered advanced 'head acupuncture,' which uses pressure points and reaction points on the head to treat the whole body. Her treatments, which approach not only the body but also the mind, have been highly praised by many.",
+    "member1Intro6": "She enjoys nothing more than serving homemade meals to her eight grandchildren.",
+    "member1Intro7": "Her hobbies are fermented foods, watching movies and traveling.",
+    "member2Intro1": "Director: Junichi Oeda",
+    "member2Intro2": "Acupuncturist, moxibustion practitioner, massage therapist",
+    "member2Intro3": "During his school days, he was devoted to basketball, and participated in the national tournament as part of his high school team. However, after experiencing an injury himself, he became interested in the world of acupuncture and moxibustion, and has continued to study and practice not only treatment but also the importance of injury prevention and physical maintenance from an athlete's perspective. He has mastered the 'fast-acting painless treatment' invented in the United States, a country with a cutting-edge medical field, and is rare in Japan, making it unique in the world. He contributes to resolving and maintaining the physical concerns of his patients.",
+    "member2Intro4": "Father of two daughters",
+    "member2Intro5": "His hobbies are eating, camping, snowboarding",
+    "memberDisplaimer1": "There are days when the therapist is absent, so we do not have a nomination system.",
+    "memberDisplaimer2": "Rather than having one therapist treat each patient, we aim to utilize the various perspectives and special skills of our therapists to provide treatment to patients. However, if you would like to have the same therapist every time, please let us know and we will accommodate.",
+
+
+    "menuIntro1": "Treatment Menus",
+    "menuIntro2": "We will make proposals tailored to your needs.",
+    "hariOkyuTitle": "Acupuncture / Moxibustion",
+    "hariOkyu1": "Acupuncture treatment: 6,000 yen",
+    "hariOkyu2": "Hay fever treatment: 10,500 yen (for one course)",
+    "hariOkyu3": "Breech treatment: 3,500 yen",
+    "hariOkyu4": "Various symptoms and concerns, including pain in the hands and feet",
+    "hariOkyu5": "Mental illness",
+    "hariOkyu6": "Allergic disease",
+    "hariOkyu7": "Breech birth/coldness",
+    "hariOkyu8": "We use disposable needles and are committed to thorough hygiene and disinfection, so there is no need to worry about infection.",
+    "hariOkyu9": "n addition, the needles are about the thickness of a hair, so you will hardly feel any pain like you would with an injection needle.If you are resistant to acupuncture, we will not force you to use it, so please feel free to visit us.",
+    "hariOkyu10": "The acupuncture treatments performed at our clinic involve inserting needles onto the surface of the body, mainly into acupuncture points and reaction points (specific muscles, tendons, and areas of severe pain).",
+   
+
+    "annmaShiatsuMassageTitle": "Anma / Shiatsu / Massage",
+    "annmaShiatsuMassage1": "60 minutes: 6,000 yen",
+    "annmaShiatsuMassage2": "Improved blood flow for better body regulation",
+    "annmaShiatsuMassage3": "At our clinic, we use manual techniques such as pushing, pulling, stroking, rubbing, kneading, and tapping to select the amount of stimulation appropriate for each individual's symptoms and physique.",
+    "annmaShiatsuMassage4": "While Anma and Shiatsu are performed with an awareness of acupuncture points and meridians (pathways connecting acupuncture points), massage is performed along the flow of lymph and blood and the course of muscles.",
+    "annmaShiatsuMassage5": "In addition, while Anma and Shiatsu provide centrifugal stimulation from the center of the body to the periphery, massage provides centripetal stimulation from the periphery to the center. Both have an effect through tactile stimulation from the skin, which directly affects the circulatory system, including lymphatic vessels and blood vessels, and indirectly affects the internal organs through reflexes in the nervous system.",
+    "annmaShiatsuMassage6": "Although the techniques and theories differ, they all have one thing in common: they are aimed at treatment and healing. Anma is a manual therapy that originated in China, shiatsu in Japan, and massage in France. Currently, in Japan, Anma, Shiatsu, and Massage are all recognized as a single national qualification.",
+
+    
+
+    "limpaTitle": "Lymphedema Treatment",
+    "limpa1": "60 minutes: 10,500 yen",
+    "limpa2": "90 minutes: 15,500 yen",
+    "limpa3": "Swelling of the upper and lower thighs after surgery or radiation therapy",
+    "limpa4": "Lymphedema is a condition in which protein and fluid accumulate in body tissues.",
+    "limpa5": "As a cause",
+    "limpa6": "①Primary edema: Caused by underdevelopment of lymph nodes and lymphatic vessels",
+    "limpa7": "②Secondary edema: aftereffects of surgery or radiation therapy for breast cancer, uterine cancer, prostate cancer, etc., venous disease, or parasites",
+    "limpa8": "Because lymphatic flow in the body's tissues is stagnant, the arms and legs experience swelling, fatigue, heaviness, and deep pain. Furthermore, the immune system weakens, making the body more susceptible to inflammation. Swelling can occur immediately after surgery, or it can take five or ten years for symptoms to appear. Symptoms progress slowly, but if proper treatment is not given or inflammation occurs repeatedly, it can progress to elephantiasis.",
+    "limpa9": "If you experience swelling, it is important to get a diagnosis from a specialist as soon as possible and receive comprehensive physical therapy from a therapist with specialized knowledge and skills.",
+    "limpa10": "Comprehensive physical therapy includes 'skin care', 'medical lymphatic drainage (massage to drain lymphatic fluid)', 'compression therapy (using elastic bandages and sleeve stockings)', 'exercise therapy', and 'self-care instruction.",
+
+
+    "yomogiTitle": "Steamed Mugwort",
+    "yomogi1": "2,500 yen",
+    "yomogi2": "Acupuncture/moxibustion/shiatsu/massage combined treatment is half price",
+    "yomogi3": "Cold",
+    "yomogi4": "Skin problems",
+    "yomogi5": "Mugwort contains cineole and other essential oil components, which have a warming effect and prevent you from getting cold after a bath. The mysteriously warm feeling that lasts after a mugwort steaming session is largely due to the action of these components.",
+    "yomogi6": "It is also very good for the skin because of its antibacterial and anti-inflammatory properties, suppressing eczema, pimples, and dryness. Mugwort is used in moxibustion because it is said to be effective for lower back pain and neuralgia.",
+    "yomogi7": "Mugwort is a well-known herbal medicine. It has many beneficial effects on our bodies. It has been particularly well-received by women in their 30s to late 60s.",
+
+
+    "biyobariTitle": "Facial Acupuncture",
+    "biyobari1": "Beautiful face basic: 3,500 yen",
+    "biyobari2": "Beautiful face premium: 6,000 yen",
+    "biyobari3": "Improving skin quality",
+    "biyobari4": "Reduce swelling",
+    "biyobari5": "Face list up",
+    "biyobari6": "Facial acupuncture involves inserting needles into acupressure points on the face and scalp to affect the skin and muscles, promoting blood and lymph flow, eliminating waste products from cells, and delivering nutrients.",
+    "biyobari7": "It also regulates the secretion of sweat and sebaceous glands, giving the skin moisture, color, and elasticity, improving dry skin, dull complexion, age spots, fine wrinkles, and pimples.It can also tighten and firm the sagging skin, giving you a lifted, slimmer face.",
+    "biyobari8": "Facial acupuncture uses extremely thin needles, but because the blood vessels in the face are extremely thin, internal bleeding may occur in rare cases. Please be aware of this before undergoing treatment.",
+
+    
+    "shonibariTitle": "Pediatric Acupuncture",
+    "shonibari1": "30 minutes: 1,500 yen",
+    "shonibari2": "Various symptoms in children",
+    "shonibari3": "Pediatric acupuncture uses blunt or flat needles to rub the whole body and stimulate acupressure points. By stimulating the skin with acupuncture needles, the function of the internal organs and brain is activated, improving immunity and regulating the autonomic nervous system and hormones.",
+    "shonibari4": "It is effective for symptoms such as colic, crying at night, squealing, frequent crying, irritability, biting, bedwetting, catching colds easily, frequent fevers, convulsions, loss of appetite, diarrhea, constipation, frequent stomach aches, allergies, asthma, and tonsillitis.",
+    "shonibari5": "There are almost no side effects to worry about (though you may become sleepy in rare cases). Treatment time is 5 to 10 minutes. To improve your constitution, continuous treatment for at least one year is recommended. Treatment can be given to babies from newborn age. The earlier you start, the greater the effect.",
+
+
+    "menuGeneral1": "An additional 1,500 yen (2,500 yen for lymphedema) will be charged as an initial consultation fee/re-consultation fee (if more than six months have passed since your last visit).",
+    "menuGeneral2": "For lymphedema, an additional fee of 1,500 yen for the application of elastic bandages and 13,000 to 19,000 yen for purchasing elastic bandages will be charged.",
+    "menuGeneral3": "In order to get the most out of your hay fever treatment, we recommend that you visit us for one course (three consecutive visits).",
+
+
+    "patientvoicesTitle": "What our patients say",
+    "patientvoicesSubTitle": "Introducing some of the people who have experienced the benefits of treatment",
+    "patientvoices1": "'I'm sleeping better now'",
+    "patientvoices1_2": "It feels great. I sleep well at night after the treatment.",
+    "patientvoices1_3": "35-year-old woman, housewife",
+    "patientvoices2": "'Improves neck/shoulder stiffness/lower back pain'",
+    "patientvoices2_2": "Symptoms improved. Kindness. Good health advice.",
+    "patientvoices2_3": "73-year-old male company executive",
+    "patientvoices3": "'Relieving insomnia'",
+    "patientvoices3_2": "I used to suffer from insomnia, but since I started going to Hinata Clinic, I can now sleep soundly until the morning. I was really surprised.",
+    "patientvoices3_3": "40-year-old woman",
+    "patientvoices4": "'Feel good about my limbs'",
+    "patientvoices4_2": "After the massage, both my legs feel so much better. The acupuncturists are also very kind.",
+    "patientvoices4_3": "65-year-old woman",
+    "patientvoices5": "'For fatigue recovery and refreshment'",
+    "patientvoices5_2": "The acupuncturists are easy to talk to and always kind, so I'm always grateful for his help. Personally, I feel more comfortable if they pricks me more in various places, but I think they have their own approaches, so I leave it all to them. They`ve really helped me recover from fatigue and feel refreshed.",
+    "patientvoices5_3": "37-year-old male dentist",
+    "patientvoices6": "'I truest Hinata'",
+    "patientvoices6_2": "I started coming to the clinic because of pain in my neck, shoulders, and back, and I trust the clinic's treatment, which takes into account my past injuries and medical history. I also discovered that I have a severe cold intolerance, and the clinic's staff are paying closer attention to my condition than I ever imagined, so I would like to continue receiving treatment.",
+    "patientvoices6_3": "31-year-old female civil servant",
+    "patientvoices7": "'Accurate advices'",
+    "patientvoices7_2": "It's a shame that acupuncture treatment is so effective yet so little known. This year I almost got hay fever for the first time, but the symptoms didn't get worse. I was asked in detail about my lifestyle and was told that my symptoms were caused by using the computer too much. This was the first time I'd received advice on how to cure my condition from the root.",
+    "patientvoices7_3": "53-year-old woman, housewife",
+    "patientvoices8": "'The breech position has been corrected.'",
+    "patientvoices8_2": "As my baby was in breech position at 27 and 29 weeks, I was worried that things could get worse, so I went to get some moxibustion. It was my first visit, but the atmosphere was warm and welcoming, and after filling out a questionnaire, I had the moxibustion treatment. When the moxibustion was done on my lower back, I felt some movement inside, which made me think that maybe my baby was responding. The moxibustion wasn't hot, but rather gently warm. Afterwards, I was advised to warm my lower body, as it's not good to keep it cold. After the moxibustion, my previously swollen legs became lighter and the swelling went down, which surprised me. Of course, the ultrasound at my prenatal checkup five days later showed that the breech position had been corrected. I went to get treatment for breech position, but the coldness and swelling also improved, so I was very happy.",
+    "patientvoices8_3": "38-year-old woman, financial administrator",
+    "patientvoices9": "'The severe pain is gone'",
+    "patientvoices9_2": "Suddenly, I felt a sharp pain in my leg and found it difficult to walk. The pain did not subside even when I rested, so I made up my mind to call an ambulance myself and was taken to a general hospital. The pain continued even after I arrived at the hospital, but the doctor told me that it would heal soon, so I went home without treatment. I went home in such intense pain that I felt like crying. The pain didn't go away even after I got home, so I thought this was bad, and an acquaintance of mine asked me about the pain in my leg, and I went there right away. The doctors at Hinata Clinic carefully asked me about the pain in my leg, and suggested the best treatment plan for me on the spot. I was surprised to feel the pain subside even while I was receiving treatment. Thanks to the doctors' careful treatment and advice, the pain completely disappeared after three visits!",
+    "patientvoices9_3": "42-year-old male IT consultant",
+    "patientvoicesDisclaimer": "*These are personal impressions of people who have experienced the effects.",
+
+
+    "accessTitle": "Access",
+    "access1": "2-26-17 Shonandai, Fujisawa City, Kanagawa Prefecture",
+    "access2": "4-minute walk from the west exit of Shonandai Station on the Odakyu Line, Sotetsu Line, and Municipal Subway Line",
+    "access3": "Reception hours 9:00-17:00",
+    "access4": "Irregular holidays",
+    "access5": "Reservations are higly recommended. Reservations can only be made by phone.",
+    "access6": "Oil massage and lymphedema treatment are by appointment only.",
+    "access7": "Please use the nearby paid parking lot.",
+    "access8": "We provide clean treatment clothes, so you can come in whatever you like.",
+    "access9": "Our clinic is a designated treatment center under the Public Assistance Act and accepts Fujisawa City Elderly Acupuncture, Moxibustion, and Massage Vouchers.",
+
+
+    "backToTop": "Back to top",
+    "hinataCopyRight": "© 2025 Hinata Clinic",
+
+
+    "moreDetails": "See details",
+    "contactIfApplied": "If you have any concerns about the following, please contact us!",
+    "effect": "Symptoms & Effects",
+    "characteristics": "Description & Features", 
+    "closeButton": "Close"
+
+    
+    
 
 
 
