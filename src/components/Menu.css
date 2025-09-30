@@ -4,3 +4,7 @@
     padding-bottom: 100rem;
      
 }
+
+.price-info, .menu-disclaimers {
+    font-size: 1.0rem;
+}

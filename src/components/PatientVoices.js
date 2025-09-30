@@ -42,74 +42,73 @@ const PatientVoices = () => {
           <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_small}>
               <h5><b>{t('patientvoices1')}</b></h5><br></br>
-              <p><i>{t('patientvoices1_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices1_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices1_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices1_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_small}>
               <h5><b>{t('patientvoices2')}</b></h5><br></br>
-              <p><i>{t('patientvoices2_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices2_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices2_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices2_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_small}>
               <h5><b>{t('patientvoices3')}</b></h5><br></br>
-              <p><i>{t('patientvoices3_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices3_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices3_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices3_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_small}>
               <h5><b>{t('patientvoices4')}</b></h5><br></br>
-              <p><i>{t('patientvoices4_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices4_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices4_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices4_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l4 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_medium}>
               <h5><b>{t('patientvoices5')}</b></h5><br></br>
-              <p><i>{t('patientvoices5_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices5_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices5_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices5_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l4 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_medium}>
               <h5><b>{t('patientvoices6')}</b></h5><br></br>
-              <p><i>{t('patientvoices6_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices6_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices6_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices6_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l4 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_medium}>
               <h5><b>{t('patientvoices7')}</b></h5><br></br>
-              <p><i>{t('patientvoices7_2')}</i></p>
-              <p class="w3-opacity">{t('patientvoices7_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices7_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices7_3')}</p>
             </div>
           </div>
 
           <div class="w3-col l6 m12 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_large}>
               <h5><b>{t('patientvoices8')}</b></h5><br></br>
-              <p><i>{t('patientvoices8_2')}
-                </i></p>
-              <p class="w3-opacity">{t('patientvoices8_3')}</p>
+              <p class="voice-content"><i>{t('patientvoices8_2')}</i></p>
+              <p class="w3-opacity voice-content">{t('patientvoices8_3')}</p>
             </div>
           </div>
 
            <div class="w3-col l6 m12 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_large}>
               <h5><b>{t('patientvoices9')}</b></h5><br></br>
-              <p><i>{t('patientvoices9_2')}
+              <p class="voice-content"><i>{t('patientvoices9_2')}
                 </i></p>
-              <p class="w3-opacity">{t('patientvoices9_3')}</p>
+              <p class="w3-opacity voice-content">{t('patientvoices9_3')}</p>
             </div>
           </div>
         <p class="w3-left">{t('patientvoicesDisclaimer')}</p>

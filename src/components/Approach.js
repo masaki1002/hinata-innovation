@@ -95,7 +95,7 @@ const Approach = () => {
             </div>
           </div>
         </div>
-       
+
 
           <div class="w3-left-align" style={approach_paragraph}>
             <p class="w3-medium">
@@ -104,13 +104,16 @@ const Approach = () => {
             <br></br>
              <div class="w3-container">
               <div class="w3-row-padding">
-                <div class="w3-col m6">
+             
+                <div class="w3-col w3-padding-16 m6">
                   <img class="w3-image w3-round-large w3-grayscale-min " src={shonandai_hinata_okyu_patient} alt="post_image"></img>
                 </div>
-              <div class="w3-col m6">
+           
+              <div class="w3-col w3-padding-16 m6">
                   <img class="w3-image w3-round-large w3-grayscale-min" src={shonandai_hinata_needle_patient} alt="post_image"></img>
               </div>
               </div>
+       
             </div><br></br>
              {t('approachExplanation2')}
             <br></br>

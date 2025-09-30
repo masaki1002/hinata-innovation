@@ -59,7 +59,7 @@
 
     "hinataRecord1": "19th year",
     "hinataRecord2": "Opened in Shonandai",
-    "hinataRecord3": "30,000人+",
+    "hinataRecord3": "30,000+",
     "hinataRecord4": "Total number of patients",
     "hinataRecord5": "95%+",
     "hinataRecord6": "Treatment satisfaction",
@@ -88,9 +88,12 @@
     "menuIntro1": "Treatment Menus",
     "menuIntro2": "We will make proposals tailored to your needs.",
     "hariOkyuTitle": "Acupuncture / Moxibustion",
-    "hariOkyu1": "Acupuncture treatment: 6,000 yen",
-    "hariOkyu2": "Hay fever treatment: 10,500 yen (for one course)",
-    "hariOkyu3": "Breech treatment: 3,500 yen",
+    "hariOkyu1": "Acupuncture treatment:",
+    "hariOkyu1-2": "6,000 yen",
+    "hariOkyu2": "Hay fever treatment:",
+    "hariOkyu2-2": "10,500 yen (for one course)",
+    "hariOkyu3": "Breech treatment:",
+    "hariOkyu3-2": "3,500 yen",
     "hariOkyu4": "Various symptoms and concerns, including pain in the hands and feet",
     "hariOkyu5": "Mental illness",
     "hariOkyu6": "Allergic disease",
@@ -101,7 +104,8 @@
    
 
     "annmaShiatsuMassageTitle": "Anma / Shiatsu / Massage",
-    "annmaShiatsuMassage1": "60 minutes: 6,000 yen",
+    "annmaShiatsuMassage1": "60 minutes:",
+    "annmaShiatsuMassage1-2": "6,000 yen",
     "annmaShiatsuMassage2": "Improved blood flow for better body regulation",
     "annmaShiatsuMassage3": "At our clinic, we use manual techniques such as pushing, pulling, stroking, rubbing, kneading, and tapping to select the amount of stimulation appropriate for each individual's symptoms and physique.",
     "annmaShiatsuMassage4": "While Anma and Shiatsu are performed with an awareness of acupuncture points and meridians (pathways connecting acupuncture points), massage is performed along the flow of lymph and blood and the course of muscles.",
@@ -111,8 +115,10 @@
     
 
     "limpaTitle": "Lymphedema Treatment",
-    "limpa1": "60 minutes: 10,500 yen",
-    "limpa2": "90 minutes: 15,500 yen",
+    "limpa1": "60 minutes:",
+    "limpa1-2": "10,500 yen",
+    "limpa2": "90 minutes:",
+    "limpa2-2": "15,500 yen",
     "limpa3": "Swelling of the upper and lower thighs after surgery or radiation therapy",
     "limpa4": "Lymphedema is a condition in which protein and fluid accumulate in body tissues.",
     "limpa5": "As a cause",
@@ -124,7 +130,8 @@
 
 
     "yomogiTitle": "Steamed Mugwort",
-    "yomogi1": "2,500 yen",
+    "yomogi1": "## minutes:",
+    "yomogi1-2": "2,500 yen",
     "yomogi2": "Acupuncture/moxibustion/shiatsu/massage combined treatment is half price",
     "yomogi3": "Cold",
     "yomogi4": "Skin problems",
@@ -134,8 +141,10 @@
 
 
     "biyobariTitle": "Facial Acupuncture",
-    "biyobari1": "Beautiful face basic: 3,500 yen",
-    "biyobari2": "Beautiful face premium: 6,000 yen",
+    "biyobari1": "Beautiful face basic:",
+    "biyobari1-2": "3,500 yen",
+    "biyobari2": "Beautiful face premium:",
+    "biyobari2-2": "6,000 yen",
     "biyobari3": "Improving skin quality",
     "biyobari4": "Reduce swelling",
     "biyobari5": "Face list up",
@@ -145,7 +154,8 @@
 
     
     "shonibariTitle": "Pediatric Acupuncture",
-    "shonibari1": "30 minutes: 1,500 yen",
+    "shonibari1": "30 minutes:",
+    "shonibari1-2": "1,500 yen",
     "shonibari2": "Various symptoms in children",
     "shonibari3": "Pediatric acupuncture uses blunt or flat needles to rub the whole body and stimulate acupressure points. By stimulating the skin with acupuncture needles, the function of the internal organs and brain is activated, improving immunity and regulating the autonomic nervous system and hormones.",
     "shonibari4": "It is effective for symptoms such as colic, crying at night, squealing, frequent crying, irritability, biting, bedwetting, catching colds easily, frequent fevers, convulsions, loss of appetite, diarrhea, constipation, frequent stomach aches, allergies, asthma, and tonsillitis.",

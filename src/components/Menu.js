@@ -57,12 +57,14 @@ const Menu = () => {
               <ul class="w3-ul w3-white w3-hover-shadow">
               <li class="w3-blue-gray w3-large w3-padding-16">{t('hariOkyuTitle')}</li>
                 <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                  <li class="w3-padding-32 w3-left-align">
+                  <li class="w3-padding-32 w3-left-align price-info">
                     <ul class="w3-ul">
                       <li>
-                      {t('hariOkyu1')}<br></br><br></br>
-                      {t('hariOkyu2')}<br></br><br></br>
-                      {t('hariOkyu3')}
+                      {t('hariOkyu1')}<br></br>{t('hariOkyu1-2')}
+                      <br></br><br></br>
+                      {t('hariOkyu2')}<br></br>{t('hariOkyu2-2')}
+                      <br></br><br></br>
+                      {t('hariOkyu3')}<br></br>{t('hariOkyu3-2')}
                       </li>
                     </ul>
                   </li>  
@@ -78,12 +80,13 @@ const Menu = () => {
             <ul class="w3-ul w3-white w3-hover-shadow">
             <li class="w3-blue-gray w3-large w3-padding-16">{t('annmaShiatsuMassageTitle')}</li>
               <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                <li class="w3-padding-32 w3-left-align">
+                <li class="w3-padding-32 w3-left-align price-info">
                   <ul class="w3-ul">
                     <li>
-                    {t('annmaShiatsuMassage1')}
+                    {t('annmaShiatsuMassage1')}<br></br>{t('annmaShiatsuMassage1-2')}
                     <br></br><br></br>
                     <br></br><br></br>
+                     <br></br><br></br>
                     <br></br>
                     </li>
                   </ul>
@@ -100,13 +103,13 @@ const Menu = () => {
             <ul class="w3-ul w3-white w3-hover-shadow">
             <li class="w3-blue-gray w3-large w3-padding-16">{t('limpaTitle')}</li>
               <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                <li class="w3-padding-32 w3-left-align">
+                <li class="w3-padding-32 w3-left-align price-info">
                   <ul class="w3-ul">
                     <li>
-                    {t('limpa1')}  
+                    {t('limpa1')}<br></br>{t('limpa1-2')}
                      <br></br><br></br>
-                    {t('limpa2')} 
-                    <br></br><br></br><br></br>
+                    {t('limpa2')}<br></br>{t('limpa2-2')} 
+                    <br></br><br></br><br></br><br></br>
                     </li>
                   </ul>
                 </li>  
@@ -122,13 +125,13 @@ const Menu = () => {
             <ul class="w3-ul w3-white w3-hover-shadow">
             <li class="w3-blue-gray w3-large w3-padding-16">{t('yomogiTitle')}</li>
               <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                <li class="w3-padding-32 w3-left-align">
+                <li class="w3-padding-32 w3-left-align price-info">
                   <ul class="w3-ul">
                     <li>
-                    {t('yomogi1')}  
+                    {t('yomogi1')}<br></br>{t('yomogi1-2')}    
                      <br></br>
                     {t('yomogi2')}
-                    <br></br><br></br><br></br>
+                    <br></br><br></br><br></br><br></br><br></br><br></br>
                     </li>
                   </ul>
                 </li>  
@@ -144,13 +147,13 @@ const Menu = () => {
             <ul class="w3-ul w3-white w3-hover-shadow">
             <li class="w3-blue-gray w3-large w3-padding-16"> {t('biyobariTitle')}</li>
               <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                <li class="w3-padding-32 w3-left-align">
+                <li class="w3-padding-32 w3-left-align price-info">
                   <ul class="w3-ul">
                     <li>
-                    {t('biyobari1')}
+                    {t('biyobari1')}<br></br>{t('biyobari1-2')}
                     <br></br><br></br>
-                    {t('biyobari2')}
-                    <br></br><br></br><br></br>
+                    {t('biyobari2')}<br></br>{t('biyobari2-2')}
+                    <br></br><br></br><br></br><br></br>
                     </li>
                   </ul>
                 </li>  
@@ -166,12 +169,12 @@ const Menu = () => {
             <ul class="w3-ul w3-white w3-hover-shadow">
             <li class="w3-blue-gray w3-large w3-padding-16">{t('shonibariTitle')}</li>
               <ul class="w3-ul w3-border w3-center w3-hover-shadow">   
-                <li class="w3-padding-32 w3-left-align">
+                <li class="w3-padding-32 w3-left-align price-info">
                   <ul class="w3-ul">
                     <li>
-                    {t('shonibari1')}
+                    {t('shonibari1')}<br></br>{t('shonibari1-2')}
                     <br></br><br></br>
-                    <br></br><br></br><br></br>
+                    <br></br><br></br><br></br><br></br><br></br>
                     </li>
                   </ul>
                 </li>  
@@ -183,7 +186,7 @@ const Menu = () => {
           </div>
           <br></br>
 
-        <div class="w3-left-align">
+        <div class="w3-left-align w3-opacity menu-disclaimers">
         <ul>
             <li>{t('menuGeneral1')}</li>
             <li>{t('menuGeneral2')}</li>
