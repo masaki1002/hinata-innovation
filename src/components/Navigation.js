@@ -45,7 +45,7 @@ const Navigation = () => {
            </Nav>
 
          </Navbar.Collapse>
-          <button class="w3-button w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+          <button class="w3-button w3-padding-large w3-margin-left" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
            <u>To {lang=== 'en' ? ("日本語") : ("English")}</u> 
           </button>
 

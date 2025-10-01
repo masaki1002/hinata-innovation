@@ -87,7 +87,7 @@
 
     "menuIntro1": "Treatment Menus",
     "menuIntro2": "We will make proposals tailored to your needs.",
-    "hariOkyuTitle": "Acupuncture / Moxibustion",
+    "hariOkyuTitle": "1.Acupuncture / Moxibustion",
     "hariOkyu1": "Acupuncture treatment:",
     "hariOkyu1-2": "6,000 yen",
     "hariOkyu2": "Hay fever treatment:",
@@ -103,7 +103,7 @@
     "hariOkyu10": "The acupuncture treatments performed at our clinic involve inserting needles onto the surface of the body, mainly into acupuncture points and reaction points (specific muscles, tendons, and areas of severe pain).",
    
 
-    "annmaShiatsuMassageTitle": "Anma / Shiatsu / Massage",
+    "annmaShiatsuMassageTitle": "2.Anma / Shiatsu / Massage",
     "annmaShiatsuMassage1": "60 minutes:",
     "annmaShiatsuMassage1-2": "6,000 yen",
     "annmaShiatsuMassage2": "Improved blood flow for better body regulation",
@@ -114,7 +114,7 @@
 
     
 
-    "limpaTitle": "Lymphedema Treatment",
+    "limpaTitle": "3.Lymphedema Treatment",
     "limpa1": "60 minutes:",
     "limpa1-2": "10,500 yen",
     "limpa2": "90 minutes:",
@@ -129,10 +129,10 @@
     "limpa10": "Comprehensive physical therapy includes 'skin care', 'medical lymphatic drainage (massage to drain lymphatic fluid)', 'compression therapy (using elastic bandages and sleeve stockings)', 'exercise therapy', and 'self-care instruction.",
 
 
-    "yomogiTitle": "Steamed Mugwort",
-    "yomogi1": "## minutes:",
+    "yomogiTitle": "4.Steamed Mugwort",
+    "yomogi1": "About 10 minutes:",
     "yomogi1-2": "2,500 yen",
-    "yomogi2": "Acupuncture/moxibustion/shiatsu/massage combined treatment is half price",
+    "yomogi2": "(Half price with 1/2/3 combined)",
     "yomogi3": "Cold",
     "yomogi4": "Skin problems",
     "yomogi5": "Mugwort contains cineole and other essential oil components, which have a warming effect and prevent you from getting cold after a bath. The mysteriously warm feeling that lasts after a mugwort steaming session is largely due to the action of these components.",
@@ -140,7 +140,7 @@
     "yomogi7": "Mugwort is a well-known herbal medicine. It has many beneficial effects on our bodies. It has been particularly well-received by women in their 30s to late 60s.",
 
 
-    "biyobariTitle": "Facial Acupuncture",
+    "biyobariTitle": "5.Facial Acupuncture",
     "biyobari1": "Beautiful face basic:",
     "biyobari1-2": "3,500 yen",
     "biyobari2": "Beautiful face premium:",
@@ -153,7 +153,7 @@
     "biyobari8": "Facial acupuncture uses extremely thin needles, but because the blood vessels in the face are extremely thin, internal bleeding may occur in rare cases. Please be aware of this before undergoing treatment.",
 
     
-    "shonibariTitle": "Pediatric Acupuncture",
+    "shonibariTitle": "6.Pediatric Acupuncture",
     "shonibari1": "30 minutes:",
     "shonibari1-2": "1,500 yen",
     "shonibari2": "Various symptoms in children",
@@ -171,31 +171,31 @@
     "patientvoicesSubTitle": "Introducing some of the people who have experienced the benefits of treatment",
     "patientvoices1": "'I'm sleeping better now'",
     "patientvoices1_2": "It feels great. I sleep well at night after the treatment.",
-    "patientvoices1_3": "35-year-old woman, housewife",
+    "patientvoices1_3": "35-year-old female, housewife",
     "patientvoices2": "'Improves neck/shoulder stiffness/lower back pain'",
     "patientvoices2_2": "Symptoms improved. Kindness. Good health advice.",
-    "patientvoices2_3": "73-year-old male company executive",
+    "patientvoices2_3": "73-year-old male, company executive",
     "patientvoices3": "'Relieving insomnia'",
     "patientvoices3_2": "I used to suffer from insomnia, but since I started going to Hinata Clinic, I can now sleep soundly until the morning. I was really surprised.",
-    "patientvoices3_3": "40-year-old woman",
+    "patientvoices3_3": "40-year-old female",
     "patientvoices4": "'Feel good about my limbs'",
     "patientvoices4_2": "After the massage, both my legs feel so much better. The acupuncturists are also very kind.",
-    "patientvoices4_3": "65-year-old woman",
+    "patientvoices4_3": "65-year-old female",
     "patientvoices5": "'For fatigue recovery and refreshment'",
     "patientvoices5_2": "The acupuncturists are easy to talk to and always kind, so I'm always grateful for his help. Personally, I feel more comfortable if they pricks me more in various places, but I think they have their own approaches, so I leave it all to them. They`ve really helped me recover from fatigue and feel refreshed.",
-    "patientvoices5_3": "37-year-old male dentist",
+    "patientvoices5_3": "37-year-old male, dentist",
     "patientvoices6": "'I truest Hinata'",
     "patientvoices6_2": "I started coming to the clinic because of pain in my neck, shoulders, and back, and I trust the clinic's treatment, which takes into account my past injuries and medical history. I also discovered that I have a severe cold intolerance, and the clinic's staff are paying closer attention to my condition than I ever imagined, so I would like to continue receiving treatment.",
-    "patientvoices6_3": "31-year-old female civil servant",
+    "patientvoices6_3": "31-year-old female, civil servant",
     "patientvoices7": "'Accurate advices'",
     "patientvoices7_2": "It's a shame that acupuncture treatment is so effective yet so little known. This year I almost got hay fever for the first time, but the symptoms didn't get worse. I was asked in detail about my lifestyle and was told that my symptoms were caused by using the computer too much. This was the first time I'd received advice on how to cure my condition from the root.",
-    "patientvoices7_3": "53-year-old woman, housewife",
+    "patientvoices7_3": "53-year-old female, housewife",
     "patientvoices8": "'The breech position has been corrected.'",
     "patientvoices8_2": "As my baby was in breech position at 27 and 29 weeks, I was worried that things could get worse, so I went to get some moxibustion. It was my first visit, but the atmosphere was warm and welcoming, and after filling out a questionnaire, I had the moxibustion treatment. When the moxibustion was done on my lower back, I felt some movement inside, which made me think that maybe my baby was responding. The moxibustion wasn't hot, but rather gently warm. Afterwards, I was advised to warm my lower body, as it's not good to keep it cold. After the moxibustion, my previously swollen legs became lighter and the swelling went down, which surprised me. Of course, the ultrasound at my prenatal checkup five days later showed that the breech position had been corrected. I went to get treatment for breech position, but the coldness and swelling also improved, so I was very happy.",
-    "patientvoices8_3": "38-year-old woman, financial administrator",
+    "patientvoices8_3": "38-year-old female, financial administrator",
     "patientvoices9": "'The severe pain is gone'",
     "patientvoices9_2": "Suddenly, I felt a sharp pain in my leg and found it difficult to walk. The pain did not subside even when I rested, so I made up my mind to call an ambulance myself and was taken to a general hospital. The pain continued even after I arrived at the hospital, but the doctor told me that it would heal soon, so I went home without treatment. I went home in such intense pain that I felt like crying. The pain didn't go away even after I got home, so I thought this was bad, and an acquaintance of mine asked me about the pain in my leg, and I went there right away. The doctors at Hinata Clinic carefully asked me about the pain in my leg, and suggested the best treatment plan for me on the spot. I was surprised to feel the pain subside even while I was receiving treatment. Thanks to the doctors' careful treatment and advice, the pain completely disappeared after three visits!",
-    "patientvoices9_3": "42-year-old male IT consultant",
+    "patientvoices9_3": "42-year-old male, IT consultant",
     "patientvoicesDisclaimer": "*These are personal impressions of people who have experienced the effects.",
 
 

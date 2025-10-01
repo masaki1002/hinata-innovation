@@ -22,7 +22,7 @@ const PatientVoices = () => {
     }
 
     const card_size_large = {
-      height: "32rem"
+      height: "35rem"
     }
 
     const {t} = useTranslation();
@@ -95,7 +95,7 @@ const PatientVoices = () => {
             </div>
           </div>
 
-          <div class="w3-col l6 m12 w3-margin-bottom">
+          <div class="w3-col l6 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_large}>
               <h5><b>{t('patientvoices8')}</b></h5><br></br>
               <p class="voice-content"><i>{t('patientvoices8_2')}</i></p>
@@ -103,7 +103,7 @@ const PatientVoices = () => {
             </div>
           </div>
 
-           <div class="w3-col l6 m12 w3-margin-bottom">
+           <div class="w3-col l6 m6 w3-margin-bottom">
             <div class="w3-panel w3-leftbar w3-light-grey w3-padding-16" style={card_size_large}>
               <h5><b>{t('patientvoices9')}</b></h5><br></br>
               <p class="voice-content"><i>{t('patientvoices9_2')}
