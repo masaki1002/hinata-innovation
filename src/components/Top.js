@@ -32,7 +32,7 @@ const Top = () => {
               <p><AnchorLink href="#accessmap" class="w3-button w3-teal w3-margin-top w3-hover-opacity-off my_button">{t('topButton')}</AnchorLink></p>
             </div>
             <div class="w3-display-bottomleft w3-text-grey w3-xxlarge" style={instagram_icon}>
-              <p class="w3-medium w3-text-grey"><a href="https://www.instagram.com/hinata_chiryoin/" target='_blank' rel="noopener noreferrer" style={instagram_icon_color}><i class="fa fa-3x fa-instagram w3-hover-opacity"></i></a></p>
+              <p class="w3-medium w3-text-grey"><a href="https://www.instagram.com/hinata_chiryoin/" target='_blank' rel="noopener noreferrer" aria-label='Hinata Instagram page' style={instagram_icon_color}><i class="fa fa-3x fa-instagram w3-hover-opacity"></i></a></p>
             </div>
           </div>
     </section>

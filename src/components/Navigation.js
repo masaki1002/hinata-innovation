@@ -39,15 +39,16 @@ const Navigation = () => {
           <AnchorLink href="#approach" class="w3-button w3-hover-opacity-off">{t('approach')}</AnchorLink>
           <AnchorLink href="#menu" class="w3-button w3-hover-opacity-off">{t('menu')}</AnchorLink>
           <AnchorLink href="#patientvoices" class="w3-button w3-hover-opacity-off">{t('voices')}</AnchorLink>
-          <AnchorLink href="#accessmap" class="w3-button w3-right w3-hover-opacity-off">{t('access')}</AnchorLink>
+          <AnchorLink href="#accessmap" class="w3-button w3-hover-opacity-off">{t('access')}</AnchorLink>
           
 
            </Nav>
+          <button class="w3-button w3-right w3-teal w3-margin-left" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+           To {lang=== 'en' ? ("日本語") : ("English")}
+          </button>
 
          </Navbar.Collapse>
-          <button class="w3-button w3-padding-large w3-margin-left" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
-           <u>To {lang=== 'en' ? ("日本語") : ("English")}</u> 
-          </button>
+
 
 
          {/* <Link to="/">home</Link> */}

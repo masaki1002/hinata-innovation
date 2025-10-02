@@ -62,6 +62,7 @@ const AccessMap = () => {
           height='450'
           frameborder="0" 
           allowfullscreen
+          title='ひなた治療院へのマップ'
           >
           
         </Iframe>

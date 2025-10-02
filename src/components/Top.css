@@ -1,5 +1,5 @@
 .bgimg-1 {
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   background-position: top center;
   background-size: cover; 
   background-repeat: no-repeat;
@@ -28,8 +28,14 @@
 
 @media (max-width: 768px) {
 .bgimg-1 {
+  background-attachment:scroll;
+  background-position: top center;
   margin-top: 85px;
   padding-bottom: 150%;
+  background-size: cover; 
+  background-image: linear-gradient(to top, rgba(214, 209, 209, 0.141) 0%, rgba(206, 210, 209, 0.7) 100%),url("../images/shonandai_hinata_outside copy 2.jpeg");/* Smaller image for mobile */
+  background-position:top center; /* Adjust position for mobile */
+  
 }
 
 .top_title_font {
