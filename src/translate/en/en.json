@@ -10,8 +10,8 @@
 
 
     "hinataClinic": "Hinata Clinic",
-    "hinataIntro": "Take a break from your daily routine and take time to rejuvenate your mind and body!",
-    "hinataIntro2": "A hidden acupuncture and massage salon in Shonandai",
+    "hinataIntro": "'Take a break from your daily routine and take time to rejuvenate your mind and body!'",
+    "hinataIntro2": "'A hidden acupuncture and massage salon in Shonandai'",
     "hinataIntroParagraph": "In your busy daily life, do you accumulate fatigue and stress without realizing it? Hinata Clinic, located near Shonandai Station, is a popular clinic for women that gently balances the mind and body with the power of acupuncture and massage. It can help with stiff shoulders, back pain, autonomic nervous system disorders, and changes in physical condition due to age -",
     "hinataIntroParagraph2": "There are those minor ailments that don't warrant a trip to the hospital, but that keep bothering you. By carefully addressing 'these vague ailments', you can make a big difference in your daily life.",
     "hinataIntroParagraph3": "「I am looking for a reliable acupuncture clinic in Fujisawa」",
@@ -20,7 +20,7 @@
     "hinataIntroParagraph6": "This is a clinic that we would like to welcome anyone looking for high-quality acupuncture and massage in the Shonandai/Fujisawa area. ",
 
 
-    "seasonalLetterIntro": "Seasonal News 2025/10/4",
+    "seasonalLetterIntro": "Seasonal News",
     "seasonalLetterIntro2": "Renewal of Hinata Clinic's website",
     "seasonalLetterParagraph": "We have recently renewed the Hinata Clinic website.",
     "seasonalLetterParagraph2": "It has been 19 years since we opened in Shonandai, and our treatment methods have continued to improve significantly since we first opened.",
@@ -99,12 +99,12 @@
     "hariOkyu6": "Allergic disease",
     "hariOkyu7": "Breech birth/coldness",
     "hariOkyu8": "We use disposable needles and are committed to thorough hygiene and disinfection, so there is no need to worry about infection.",
-    "hariOkyu9": "n addition, the needles are about the thickness of a hair, so you will hardly feel any pain like you would with an injection needle.If you are resistant to acupuncture, we will not force you to use it, so please feel free to visit us.",
+    "hariOkyu9": "In addition, the needles are about the thickness of a hair, so you will hardly feel any pain like you would with an injection needle.If you are resistant to acupuncture, we will not force you to use it, so please feel free to visit us.",
     "hariOkyu10": "The acupuncture treatments performed at our clinic involve inserting needles onto the surface of the body, mainly into acupuncture points and reaction points (specific muscles, tendons, and areas of severe pain).",
    
 
     "annmaShiatsuMassageTitle": "2.Anma / Shiatsu / Massage",
-    "annmaShiatsuMassage1": "60 minutes:",
+    "annmaShiatsuMassage1": "45 minutes:",
     "annmaShiatsuMassage1-2": "6,000 yen",
     "annmaShiatsuMassage2": "Improved blood flow for better body regulation",
     "annmaShiatsuMassage3": "At our clinic, we use manual techniques such as pushing, pulling, stroking, rubbing, kneading, and tapping to select the amount of stimulation appropriate for each individual's symptoms and physique.",
@@ -154,7 +154,7 @@
 
     
     "shonibariTitle": "6.Pediatric Acupuncture",
-    "shonibari1": "30 minutes:",
+    "shonibari1": "15 minutes:",
     "shonibari1-2": "1,500 yen",
     "shonibari2": "Various symptoms in children",
     "shonibari3": "Pediatric acupuncture uses blunt or flat needles to rub the whole body and stimulate acupressure points. By stimulating the skin with acupuncture needles, the function of the internal organs and brain is activated, improving immunity and regulating the autonomic nervous system and hormones.",
@@ -216,7 +216,7 @@
 
 
     "moreDetails": "See details",
-    "contactIfApplied": "If you have any concerns about the following, please contact us!",
+    "contactIfApplied": "For any inquries, please contact us!",
     "effect": "Symptoms & Effects",
     "characteristics": "Description & Features", 
     "closeButton": "Close"

@@ -277,8 +277,8 @@ const Menu = () => {
         <Modal.Body> 
            <ul class="w3-ul w3-center">  
              <span class="w3-large">{t('contactIfApplied')}</span>     
-              <li class="w3-padding-32 w3-left-align w3-tag w3-large w3-padding-small w3-teal w3-round">
-                {t('effect')}
+            <li class="w3-padding-32 w3-left-align">
+              <span class="w3-left w3-tag w3-large w3-padding-small w3-teal w3-round">{t('effect')}</span>
                 <br></br><br></br>
                 <ul class="w3-ul">
                   <li>{t('limpa3')}
@@ -346,7 +346,7 @@ const Menu = () => {
   
           </Modal.Body>
         <Modal.Footer>
-           <button class="w3-button w3-teal w3-padding-large" onClick={handleClose_4}>{t('contactIfApplied')}</button>
+           <button class="w3-button w3-teal w3-padding-large" onClick={handleClose_4}>{t('closeButton')}</button>
         </Modal.Footer>
       </Modal>
 

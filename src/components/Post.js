@@ -17,7 +17,7 @@ const Post = () => {
           <div class="w3-row-padding">
           <br></br>
           <div class="w3-col l8 m8 s12">
-          <h6>{t('seasonalLetterIntro')}</h6>
+          <h2><b>{t('seasonalLetterIntro')}</b></h2>
           <h4><b>{t('seasonalLetterIntro2')}</b></h4><br></br>
           <p class="w3-medium">
           {t('seasonalLetterParagraph')}
@@ -38,7 +38,7 @@ const Post = () => {
           <br></br><br></br>
           {t('seasonalLetterParagraph9')}
           </p>
-           <Link to="/moreposts" class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-top  w3-hover-opacity-off past-posts">{t('seasonalLetterButton')}</Link>
+           {/* <Link to="/moreposts" class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-top  w3-hover-opacity-off past-posts">{t('seasonalLetterButton')}</Link> */}
         </div>
       
         <div class="w3-col l4 m4 s12">

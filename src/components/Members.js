@@ -46,7 +46,7 @@ const Members = () => {
             <img class="w3-image w3-round-large w3-grayscale-min" src={junichi_image} alt="junichi oeda"></img><br></br><br></br>
           </div>  
           <div class="w3-col l10 m12 s12">
-            <p class="member_name"><b>{t('member2Intro1')}</b><br></br>{t('member2Intro2')} </p>
+            <p class="member_name"><b>{t('member2Intro1')}</b><br></br>{t('member2Intro2')}<br></br>{t('member1Intro3')} </p>
             <p class="member_intro">{t('member2Intro3')}
             <br></br><br></br>
             {t('member2Intro4')}

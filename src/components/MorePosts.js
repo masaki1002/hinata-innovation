@@ -25,9 +25,6 @@ const MorePosts = () => {
           <img class="w3-image w3-round-large image-max-width"   style={{ maxWidth: "60%", width: "100px",  margin: "0 auto" }} src={hinata_logo_image} alt="Hinata logo"></img>
           {/* <b>ひなた治療院</b> */}
          </Navbar.Brand>
-          <button class="w3-button w3-round-xxlarge w3-teal w3-padding-large w3-margin-left  w3-hover-opacity-off" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
-            {lang=== 'en' ? ("日本語") : ("English")}
-          </button>
 
          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
          <Navbar.Collapse id="responsive-navbar-nav">
@@ -37,6 +34,9 @@ const MorePosts = () => {
           
 
            </Nav>
+                 <button class="w3-button w3-right w3-teal w3-margin-left" onClick={() => setLang(lang === 'en' ? 'ja' : 'en')}>
+           To {lang=== 'en' ? ("日本語") : ("English")}
+          </button>
 
          </Navbar.Collapse>
 
